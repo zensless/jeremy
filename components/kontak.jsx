@@ -8,7 +8,7 @@ export default function kontak() {
         <div className="hero h-1/2 mb-20">
             <div className="hero-content text-center">
                 <div className="max-w-md mx-auto"> {/* Tambahkan mx-auto untuk memusatkan secara horizontal */}
-                    <h1 className="text-3xl font-bold mb-6">Contact me</h1>
+                    <h1 className="text-3xl font-bold mb-6">Contact Me</h1>
                     <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4"> {/* flex-col untuk mode mobile, flex-row untuk desktop */}
                         {/* Wrapper untuk logo Gmail dan teks email */}
                         <div className="flex items-center">
